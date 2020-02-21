@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Place your api key in the NewsForm.js file.
+
+### I used the API from https://newsapi.org/.
+
 ## Available Scripts
 
 In the project directory, you can run:
