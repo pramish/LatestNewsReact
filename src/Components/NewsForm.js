@@ -16,7 +16,7 @@ export default class NewsForm extends Component {
     const category = this.props.category;
     this.setState({ loading: true }, () => {
       fetch(
-        `http://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=0eb07e37440d44ff9dbe77ceed4a68c6`
+        `http://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=replace your api key here`
       )
         .then(res => res.json())
         .then(news => this.setState({ news: news.articles }));
