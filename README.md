@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Place your api key in the NewsForm.js file.
 
-### I used the API from https://newsapi.org/.
+### I used the API Key from https://newsapi.org/.
 
 ## Available Scripts
 
